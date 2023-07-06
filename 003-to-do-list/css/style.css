@@ -7,3 +7,18 @@ body {
 h1 {
     text-align: center;
 }
+
+#task-form {
+    width: 50%;
+    margin: 0 auto;
+}
+
+#task-list li {
+    display: block;
+    width: max-content;
+}
+
+.remove:hover {
+    color: rgb(255, 0, 0);
+    text-decoration: line-through;
+}
