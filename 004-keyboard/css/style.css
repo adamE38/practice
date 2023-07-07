@@ -7,3 +7,26 @@ body {
 h1 {
     text-align: center;
 }
+
+.row {
+    display: flex;
+}
+
+.key {
+    background: #d0d0d0;
+    color: #303030;
+    padding: 0.5rem;
+    margin: 0.2rem;
+    min-width: 15px;
+    border-radius: 0.25rem;
+    text-align: center;
+}
+
+.caps {
+    width: 45px;
+}
+
+.shift {
+    width: 65px;
+}
+
